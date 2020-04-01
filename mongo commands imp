@@ -2,3 +2,11 @@ $brew services start mongodb-community
 $mongo (To start working in terminal)
 
 $brew services stop mongodb-community (it will stop the mongodb server permanently unless u use start command)
+
+
+#2
+-show dbs
+-use crawlerDB
+-show collections
+-use iphone
+-? how to displaythe content inside that iphone
